@@ -1,0 +1,20 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-family: system-ui, sans-serif;
+	font-size: 24px;
+	line-height: 1.4;
+	background-color: #ffbe60;
+}
+
+body {
+	max-width: 60ch;
+	margin-inline: auto;
+	margin-block: 2rem 4rem;
+}
+
+a { color: currentColor; }
+
+
